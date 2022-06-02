@@ -26,6 +26,7 @@
 <!-- LATEST BLOG POSTS  -->
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to become a Web Developer in 2022](https://dev.to/abhinavkashyap061/how-to-become-a-web-developer-in-2022-2ai8)
 <!-- BLOG-POST-LIST:END -->
 
 
