@@ -4,7 +4,7 @@
 </p>
 
 <a href="https://abhinavkashyap061.github.io/">Website</a> •
-<a href="https://twitter.com/intent/follow?screen_name=abhinavstwt&tw_p=followbutton/">Twitter</a> •
+<a href="https://twitter.com/abhinavstwt">Twitter</a> •
 <a href="https://www.linkedin.com/in/abhinavkashyap061/">LinkedIn</a>
 
 
