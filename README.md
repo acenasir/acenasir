@@ -26,6 +26,7 @@
 <!-- LATEST BLOG POSTS  -->
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an impressive GitHub Profile Readme in 2022](https://dev.to/abhinavkashyap061/create-an-impressive-github-profile-readme-452m)
 - [How to become a Web Developer in 2022](https://dev.to/abhinavkashyap061/how-to-become-a-web-developer-in-2022-2ai8)
 <!-- BLOG-POST-LIST:END -->
 
