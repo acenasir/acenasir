@@ -3,7 +3,7 @@
     <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/Abhinav%20Kashyap%20Banner.gif?raw=true" alt="Abhinav's GitHub Banner" width="100%">
 </p>
 
-<a href="https://abhinavkashyap061.github.io/">Website</a> •
+<a href="https://www.abhinavkashyap.dev/">Website</a> •
 <a href="https://twitter.com/abhinavstwt">Twitter</a> •
 <a href="https://www.linkedin.com/in/abhinavkashyap061/">LinkedIn</a>
 
