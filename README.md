@@ -5,7 +5,8 @@
 
 <a href="https://www.abhinavkashyap.dev/">Website</a> •
 <a href="https://twitter.com/abhinavstwt">Twitter</a> •
-<a href="https://www.linkedin.com/in/abhinavkashyap061/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/abhinavkashyap061/">LinkedIn</a> •
+<a href="https://stackoverflow.com/users/17306349/abhinav-kashyap">StackOverflow</a>
 
 
 <!-- ABOUT -->
