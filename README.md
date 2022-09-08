@@ -11,7 +11,7 @@
 
 <!-- ABOUT -->
 ### 📝 About
-- 🔭 I'm currently a third year student pursuing Electronics and Electrical Engineering @ [KIIT](https://kiit.ac.in/), Bhubaneswar.
+- 🔭 I'm currently a fourth year student pursuing Electronics and Electrical Engineering @ [KIIT](https://kiit.ac.in/), Bhubaneswar.
 - 🌱 I’m currently learning **Web development**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 📫 How to reach me: abhinavkashyap061@gmail.com
