@@ -1,0 +1,321 @@
+# Business Consultant AI Prompt Pack
+## 50+ Ready-to-Use Prompts for Consultants, Coaches & Advisors
+
+---
+
+## PROPOSALS & PITCHES (10 Prompts)
+
+### 1. Consulting Proposal
+```
+Write a consulting proposal for [CLIENT COMPANY] seeking help with [PROBLEM/GOAL]. My services: [DESCRIBE]. Engagement scope: [X] weeks/months. Include: executive summary, understanding of their challenge, proposed approach, deliverables, timeline, investment ($[AMOUNT]), and next steps. Professional but personable tone.
+```
+
+### 2. Executive Summary
+```
+Write a compelling 1-page executive summary for a consulting engagement with [CLIENT]. Problem: [DESCRIBE]. My solution: [APPROACH]. Expected outcomes: [LIST]. Investment: $[AMOUNT]. Timeline: [DURATION]. Make it scannable for a busy executive who will spend 60 seconds on this.
+```
+
+### 3. Elevator Pitch
+```
+Create a 30-second elevator pitch for my consulting business. I help [TARGET CLIENT] achieve [OUTCOME] through [METHOD]. Unique value: [DIFFERENTIATOR]. Include a hook, value proposition, and call-to-action. Make it memorable and conversational.
+```
+
+### 4. Cold Outreach Email
+```
+Write a cold outreach email to [TITLE] at [COMPANY TYPE]. I help companies with [PROBLEM]. Include: personalized hook (research-based), brief credibility, value proposition, specific ask (15-min call). Keep it under 150 words. No attachments. Subject line options included.
+```
+
+### 5. Follow-Up Proposal Email
+```
+Write a follow-up email to [CONTACT NAME] at [COMPANY] who received my proposal [X] days ago but hasn't responded. Be professional, not pushy. Add one new piece of value (insight, case study, idea). Clear but soft CTA. Keep the door open.
+```
+
+### 6. Scope of Work Document
+```
+Create a detailed Scope of Work for a consulting project with [CLIENT]. Project: [DESCRIBE]. Include: objectives, deliverables with descriptions, timeline with milestones, client responsibilities, assumptions, out-of-scope items, and change request process.
+```
+
+### 7. Discovery Call Agenda
+```
+Create a discovery call agenda for a prospective client [COMPANY] interested in [SERVICE]. Duration: 30 minutes. Structure: rapport building, understanding their situation, exploring goals, identifying obstacles, explaining my approach, discussing fit, and next steps. Include questions to ask.
+```
+
+### 8. Capability Deck Outline
+```
+Outline a 10-slide capability presentation for my consulting firm. Services: [LIST]. Target clients: [DESCRIBE]. Include: who we are, problems we solve, our approach, services overview, case studies, team, why us, and how to engage. Note talking points for each slide.
+```
+
+### 9. RFP Response Framework
+```
+Create a framework for responding to an RFP from [ORGANIZATION TYPE] seeking [SERVICES]. Include: how to structure the response, key sections to address, how to differentiate from competitors, pricing strategy, and common mistakes to avoid.
+```
+
+### 10. Retainer Proposal
+```
+Write a retainer proposal for ongoing advisory services to [CLIENT]. Services included: [LIST]. Monthly hours: [X]. Monthly fee: $[AMOUNT]. Include: what's included, how hours work, communication expectations, rollover policy, and term length. Position as partnership.
+```
+
+---
+
+## CLIENT DELIVERABLES (10 Prompts)
+
+### 11. Assessment Report
+```
+Create an assessment report structure for evaluating [CLIENT]'s [AREA: operations/marketing/finance/HR]. Include: executive summary, methodology, current state findings, gap analysis, prioritized recommendations, implementation roadmap, and appendix. Provide sample content for each section.
+```
+
+### 12. Strategic Recommendations
+```
+Write strategic recommendations for [CLIENT] facing [CHALLENGE]. Context: [BACKGROUND]. Present 3-5 recommendations, each with: description, rationale, expected impact, effort/cost estimate, and risks. Prioritize by impact vs. effort. Executive-friendly format.
+```
+
+### 13. Implementation Roadmap
+```
+Create a [X]-month implementation roadmap for [CLIENT] to achieve [GOAL]. Break into phases with: objectives, key activities, milestones, owners, and success metrics. Include dependencies and critical path. Format as a visual timeline description.
+```
+
+### 14. KPI Dashboard Design
+```
+Design a KPI dashboard for [CLIENT]'s [DEPARTMENT/FUNCTION]. Business goal: [DESCRIBE]. Include: 5-7 key metrics with definitions, targets, data sources, update frequency, and visualization recommendations. Explain why each metric matters to their goal.
+```
+
+### 15. Process Improvement Document
+```
+Document a process improvement for [PROCESS NAME] at [CLIENT]. Current state: [DESCRIBE ISSUES]. Proposed future state: [DESCRIBE]. Include: process map description, specific changes, expected efficiency gains, implementation steps, and change management notes.
+```
+
+### 16. Competitive Analysis
+```
+Create a competitive analysis for [CLIENT] in the [INDUSTRY] space. Competitors: [LIST 3-5]. Analyze: positioning, strengths, weaknesses, pricing (if known), and market share. Identify opportunities for [CLIENT] to differentiate. Format as a comparison matrix with narrative insights.
+```
+
+### 17. Business Case
+```
+Write a business case for [INITIATIVE] at [CLIENT]. Include: problem statement, proposed solution, options considered, cost-benefit analysis, ROI projection, risks and mitigations, and recommendation. Make it compelling for executive approval.
+```
+
+### 18. Meeting Facilitation Guide
+```
+Create a facilitation guide for a [WORKSHOP TYPE: strategy session/planning meeting/problem-solving workshop] with [CLIENT]. Duration: [X] hours. Objectives: [LIST]. Include: agenda, facilitation notes for each section, discussion questions, exercises, and desired outputs.
+```
+
+### 19. Change Management Plan
+```
+Create a change management plan for [CLIENT] implementing [CHANGE]. Include: stakeholder analysis, communication plan, training needs, resistance management, success metrics, and timeline. Address the people side, not just the technical side.
+```
+
+### 20. Final Engagement Report
+```
+Write an outline for a final engagement report for [CLIENT]. Project: [DESCRIBE]. Include: executive summary, engagement overview, work completed, findings and insights, recommendations delivered, results achieved, lessons learned, and suggested next steps.
+```
+
+---
+
+## THOUGHT LEADERSHIP (10 Prompts)
+
+### 21. LinkedIn Article
+```
+Write a LinkedIn article about [TOPIC] for my audience of [TARGET: CEOs/founders/HR leaders/etc.]. Include: attention-grabbing hook, the problem/opportunity, my perspective with supporting points, actionable takeaways, and engagement-driving conclusion. 600-800 words. Professional but accessible tone.
+```
+
+### 22. Case Study
+```
+Write a case study about my work with [CLIENT/INDUSTRY]. Situation: [CHALLENGE THEY FACED]. Solution: [WHAT I DID]. Results: [OUTCOMES - quantify if possible]. Format: situation-solution-results. Include a pull quote from client (I'll get their actual quote). 400-500 words.
+```
+
+### 23. Email Newsletter
+```
+Write a newsletter for my email list of [AUDIENCE]. Topic: [SUBJECT]. Include: engaging opening, main insight or lesson, practical application, and CTA (reply, share, or book a call). Keep it under 400 words. Conversational tone, like writing to a smart friend.
+```
+
+### 24. Speaking Topic Pitch
+```
+Create a speaking topic pitch for conferences/events in the [INDUSTRY] space. Topic: [YOUR EXPERTISE]. Include: session title options, session description (50 words), key takeaways (3-4), and speaker bio (100 words). Make it clear what attendees will learn.
+```
+
+### 25. Podcast Guest Pitch
+```
+Write a pitch to be a guest on podcasts in the [INDUSTRY/TOPIC] space. My expertise: [DESCRIBE]. Unique angle: [WHAT MAKES YOUR PERSPECTIVE DIFFERENT]. Include: 3 topic ideas with brief descriptions, brief bio, and why their audience would care.
+```
+
+### 26. Webinar Outline
+```
+Create an outline for a 45-minute webinar titled "[TITLE]" for [TARGET AUDIENCE]. Structure: hook (2 min), intro/credibility (3 min), main content with 3-4 key points (30 min), Q&A (8 min), CTA (2 min). Include slide suggestions and engagement tactics.
+```
+
+### 27. Framework/Model Introduction
+```
+Help me articulate my [FRAMEWORK/MODEL NAME] for [WHAT IT SOLVES]. The components are: [LIST]. Write a clear explanation of the framework, how to apply it, and why it works. Format it for a blog post or speaker one-sheet. Make it memorable.
+```
+
+### 28. Industry Trend Analysis
+```
+Write an analysis of [TREND] affecting [INDUSTRY] for my thought leadership content. Include: what the trend is, why it matters now, implications for businesses, and how smart leaders should respond. Provide specific, actionable insights. Position me as a forward-thinking expert.
+```
+
+### 29. Contrarian Take Post
+```
+Write a LinkedIn post sharing a contrarian perspective on [COMMON BELIEF IN MY INDUSTRY]. My take: [YOUR CONTRARY OPINION]. Structure: provocative opening, acknowledge the common view, present my counter-argument with evidence/experience, conclude with nuance. Spark conversation without being inflammatory.
+```
+
+### 30. Book Summary + Application
+```
+Write a post summarizing the key ideas from [BOOK TITLE] by [AUTHOR] and how [TARGET AUDIENCE] can apply them. Include: 3-4 main concepts, practical applications for their work, and my personal take on the book's value. 500 words.
+```
+
+---
+
+## CLIENT MANAGEMENT (10 Prompts)
+
+### 31. Project Kickoff Email
+```
+Write a project kickoff email to [CLIENT CONTACT] for our engagement starting [DATE]. Include: excitement to begin, confirmation of scope, kickoff meeting logistics, what they need to prepare, who should attend, and my contact info. Set the tone for a great partnership.
+```
+
+### 32. Status Update Template
+```
+Create a weekly status update template for consulting projects. Sections: accomplishments this week, upcoming activities, decisions needed from client, risks/issues, and hours/budget tracking. Keep it concise but complete. Format for easy scanning.
+```
+
+### 33. Difficult Conversation Script
+```
+Help me prepare for a difficult conversation with [CLIENT] about [ISSUE: scope creep/missed deadlines/quality concerns/payment]. Provide: how to open the conversation, key points to make, how to stay solution-focused, and how to preserve the relationship. Professional but direct.
+```
+
+### 34. Scope Creep Email
+```
+Write an email addressing scope creep with [CLIENT]. They've requested [ADDITIONAL WORK] beyond our agreed scope. Options: decline gracefully, accommodate as a favor, or propose a change order. I want to: [YOUR PREFERENCE]. Keep the relationship positive while protecting boundaries.
+```
+
+### 35. Meeting Recap Email
+```
+Write a meeting recap email for the meeting with [CLIENT] on [DATE]. Attendees: [LIST]. Topics discussed: [LIST]. Decisions made: [LIST]. Action items: [LIST WITH OWNERS AND DUE DATES]. Next meeting: [DATE]. Keep it factual and actionable.
+```
+
+### 36. Delay Notification
+```
+Write an email to [CLIENT] notifying them of a delay on [DELIVERABLE]. Original due date: [DATE]. New date: [DATE]. Reason: [EXPLAIN]. What I'm doing to mitigate: [ACTIONS]. Apologize appropriately without over-apologizing. Maintain confidence.
+```
+
+### 37. Results Presentation Script
+```
+Write talking points for presenting results to [CLIENT]'s leadership team. Project: [DESCRIBE]. Key findings: [LIST]. Recommendations: [LIST]. Structure: remind them of goals, share what we did, present findings, recommend actions, discuss next steps. Executive-appropriate length.
+```
+
+### 38. Invoice Follow-Up
+```
+Write a professional follow-up for an unpaid invoice to [CLIENT]. Invoice: #[NUMBER], $[AMOUNT], due [DATE], now [X] days overdue. First follow-up tone. Include: invoice details, payment instructions, and request for confirmation. Firm but not adversarial.
+```
+
+### 39. Testimonial Request
+```
+Write a testimonial request to [CLIENT] after a successful engagement. Remind them of the results achieved. Ask for a brief testimonial (written or LinkedIn recommendation). Provide guidance on what to include. Make it easy for them to say yes.
+```
+
+### 40. Offboarding & Handoff
+```
+Create an offboarding email and checklist for ending an engagement with [CLIENT]. Include: summary of work completed, handoff of deliverables and documentation, knowledge transfer notes, recommended next steps, and how to stay in touch. Leave on a positive note.
+```
+
+---
+
+## BUSINESS DEVELOPMENT (5 Prompts)
+
+### 41. Referral Request
+```
+Write a referral request to [CONTACT] who knows my work. Be specific about who I help: [TARGET CLIENT DESCRIPTION]. What to say about me: [VALUE PROP]. Make it easy for them to refer by providing a forwardable blurb. Include referral incentive if applicable: [INCENTIVE].
+```
+
+### 42. Partnership Outreach
+```
+Write an outreach email to [COMPANY/INDIVIDUAL] proposing a partnership. How we complement each other: [EXPLAIN]. Proposed collaboration: [IDEA]. Mutual benefits: [LIST]. Keep it exploratory, not salesy. Goal: get a conversation started.
+```
+
+### 43. Conference Follow-Up
+```
+Write a follow-up email to [NAME] I met at [CONFERENCE/EVENT]. Context of our conversation: [BRIEF SUMMARY]. Why I'm following up: [PURPOSE]. Include: reminder of who I am, specific reference to our chat, proposed next step. Send within 48 hours of meeting.
+```
+
+### 44. Lost Deal Re-Engagement
+```
+Write an email to re-engage [CONTACT] at [COMPANY] who didn't move forward [X] months ago. They chose [NOT TO PROCEED/COMPETITOR]. Reason: [IF KNOWN]. Check in on their situation, offer new value, suggest reconnecting. No guilt, just genuine interest.
+```
+
+### 45. Annual Client Check-In
+```
+Write an annual check-in email to past client [NAME/COMPANY]. Remind them of our work together: [BRIEF]. Ask how things are going since we worked together. Share a relevant insight or resource. Open the door for new conversations. Keep it warm and genuine.
+```
+
+---
+
+## PERSONAL PRODUCTIVITY (5 Prompts)
+
+### 46. Consulting Offering Definition
+```
+Help me clearly define my consulting offering. I help [TARGET CLIENT] who struggle with [PROBLEM]. I deliver [SERVICES]. The outcome is [RESULTS]. Create: a one-sentence value proposition, 3-4 service tiers, and ideal client criteria. Make it focused, not everything-to-everyone.
+```
+
+### 47. Rate/Pricing Analysis
+```
+Help me analyze my consulting rates. Current rate: $[AMOUNT]/[HOUR/DAY/PROJECT]. Experience: [YEARS]. Specialty: [AREA]. Market: [DESCRIBE]. Provide: market rate benchmarks, positioning considerations, rate increase strategy, and how to communicate value over cost.
+```
+
+### 48. Weekly Planning Template
+```
+Create a weekly planning template for a consultant balancing client work, business development, and admin. Categories to include: client deliverables, client meetings, prospecting, content creation, admin, and learning. Include time-blocking suggestions.
+```
+
+### 49. Project Lessons Learned
+```
+Create a lessons learned template for after consulting projects. Capture: what went well, what could improve, client feedback, efficiency opportunities, tools/templates created, and how to apply learning to future projects. Keep it useful, not bureaucratic.
+```
+
+### 50. Annual Business Review
+```
+Create an annual business review template for a solo consultant. Sections: revenue analysis, client mix, project highlights, business development effectiveness, goals vs. actuals, market observations, and priorities for next year. Make it actionable, not just reflective.
+```
+
+---
+
+## BONUS PROMPTS (5 Extra)
+
+### 51. Consulting Agreement
+```
+Draft a consulting services agreement including: parties, services description, deliverables, fees and payment terms, expenses, intellectual property, confidentiality, term and termination, liability limitations, and general provisions. Note: have a lawyer review before use.
+```
+
+### 52. NDA for Client Engagement
+```
+Draft a mutual NDA for a consulting relationship. Include: definition of confidential information, obligations, exclusions, term ([X] years), return of materials, and remedies. Keep it balanced and reasonable. Note: have a lawyer review before use.
+```
+
+### 53. Subcontractor Brief
+```
+Write a brief for a subcontractor I'm bringing onto a project. Project: [DESCRIBE]. Their role: [SCOPE]. Deliverables expected: [LIST]. Timeline: [DATES]. Rate: $[AMOUNT]. Client contact protocol: [RULES]. My expectations for quality and communication.
+```
+
+### 54. Exit Interview Questions
+```
+Create exit interview questions for a client at the end of an engagement. Cover: satisfaction with outcomes, process feedback, communication effectiveness, what I did well, what could improve, and likelihood to recommend. Keep it constructive and relationship-building.
+```
+
+### 55. Value Articulation Exercise
+```
+Help me articulate the value I provide to clients beyond deliverables. My work leads to: [TANGIBLE OUTCOMES]. The less obvious value includes: [INTANGIBLES - confidence, clarity, capability building]. Write: how to communicate this value in proposals and conversations.
+```
+
+---
+
+## HOW TO USE THESE PROMPTS
+
+1. **Copy the prompt** into ChatGPT, Claude, or your preferred AI tool
+2. **Replace the [BRACKETS]** with your specific client/project information
+3. **Review and customize** to match your consulting style and brand
+4. **Apply professional judgment** - AI assists but doesn't replace expertise
+
+**Pro Tip:** Create a "swipe file" of your best AI-generated outputs to reuse and refine!
+
+---
+
+© 2026 PromptPro by Aced I.T. | All Rights Reserved
+For support: [Your Support Email]
