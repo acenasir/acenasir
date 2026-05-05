@@ -3,30 +3,35 @@
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
 
-const productFiles: Record<string, { name: string; file: string; description: string }> = {
+const productFiles: Record<string, { name: string; mdFile: string; csvFile: string; description: string }> = {
   'real-estate': {
     name: 'Real Estate Agent Pack',
-    file: '/prompts/real-estate-prompts.md',
+    mdFile: '/prompts/real-estate-prompts.md',
+    csvFile: '/prompts/real-estate-prompts.csv',
     description: '55 prompts for listings, client communication, market analysis, social media, and negotiations.',
   },
   'fitness': {
     name: 'Fitness Trainer Pack',
-    file: '/prompts/fitness-prompts.md',
+    mdFile: '/prompts/fitness-prompts.md',
+    csvFile: '/prompts/fitness-prompts.csv',
     description: '55 prompts for workout programming, nutrition guidance, client communication, and marketing.',
   },
   'consultant': {
     name: 'Business Consultant Pack',
-    file: '/prompts/business-consultant-prompts.md',
+    mdFile: '/prompts/business-consultant-prompts.md',
+    csvFile: '/prompts/business-consultant-prompts.csv',
     description: '55 prompts for proposals, client deliverables, thought leadership, and business development.',
   },
   'beauty': {
     name: 'Beauty Professional Pack',
-    file: '/prompts/beauty-prompts.md',
+    mdFile: '/prompts/beauty-prompts.md',
+    csvFile: '/prompts/beauty-prompts.csv',
     description: '55 prompts for appointments, aftercare, reviews, marketing, and client communication.',
   },
   'trades': {
     name: 'Home Services Pack',
-    file: '/prompts/home-services-prompts.md',
+    mdFile: '/prompts/home-services-prompts.md',
+    csvFile: '/prompts/home-services-prompts.csv',
     description: '55 prompts for quotes, client communication, reviews, marketing, and local SEO.',
   },
 };
@@ -84,26 +89,40 @@ export default function DownloadPage() {
             return (
               <div
                 key={id}
-                className="bg-slate-800 rounded-xl p-6 border border-slate-700 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4"
+                className="bg-slate-800 rounded-xl p-6 border border-slate-700"
               >
-                <div>
-                  <h2 className="text-xl font-semibold text-white mb-1">
-                    {product.name}
-                  </h2>
-                  <p className="text-slate-400 text-sm">
-                    {product.description}
-                  </p>
+                <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
+                  <div>
+                    <h2 className="text-xl font-semibold text-white mb-1">
+                      {product.name}
+                    </h2>
+                    <p className="text-slate-400 text-sm">
+                      {product.description}
+                    </p>
+                  </div>
+                  <div className="flex flex-wrap gap-3 shrink-0">
+                    <a
+                      href={product.mdFile}
+                      download
+                      className="px-5 py-2.5 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-lg transition flex items-center gap-2"
+                    >
+                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                      </svg>
+                      Markdown
+                    </a>
+                    <a
+                      href={product.csvFile}
+                      download
+                      className="px-5 py-2.5 bg-slate-600 hover:bg-slate-500 text-white font-medium rounded-lg transition flex items-center gap-2"
+                    >
+                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M3 14h18m-9-4v8m-7 0h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                      </svg>
+                      Spreadsheet
+                    </a>
+                  </div>
                 </div>
-                <a
-                  href={product.file}
-                  download
-                  className="shrink-0 px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-white font-medium rounded-lg transition flex items-center gap-2"
-                >
-                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                  </svg>
-                  Download
-                </a>
               </div>
             );
           })}
@@ -114,25 +133,35 @@ export default function DownloadPage() {
           <ol className="space-y-3 text-slate-300">
             <li className="flex gap-3">
               <span className="text-emerald-400 font-bold">1.</span>
-              Open the downloaded file in any text editor or Markdown viewer
+              <div>
+                <strong>Markdown format</strong> — Best for reading and copying prompts. Open in any text editor, Notion, or Obsidian.
+              </div>
             </li>
             <li className="flex gap-3">
               <span className="text-emerald-400 font-bold">2.</span>
-              Find a prompt that fits your needs and copy it
+              <div>
+                <strong>Spreadsheet format</strong> — Best for filtering and organizing. Open in Excel, Google Sheets, or Numbers.
+              </div>
             </li>
             <li className="flex gap-3">
               <span className="text-emerald-400 font-bold">3.</span>
-              Paste into ChatGPT, Claude, or your preferred AI tool
+              Find a prompt that fits your needs and copy it into ChatGPT, Claude, or any AI tool.
             </li>
             <li className="flex gap-3">
               <span className="text-emerald-400 font-bold">4.</span>
-              Replace the [BRACKETS] with your specific information
+              Replace the [BRACKETS] with your specific information.
             </li>
             <li className="flex gap-3">
               <span className="text-emerald-400 font-bold">5.</span>
               Review, personalize, and use the AI-generated content!
             </li>
           </ol>
+        </div>
+
+        <div className="mt-8 p-4 bg-emerald-500/10 border border-emerald-500/30 rounded-lg">
+          <p className="text-emerald-400 text-sm text-center">
+            💡 <strong>Pro Tip:</strong> Bookmark this page — you have lifetime access to your downloads and any future updates!
+          </p>
         </div>
 
         <div className="mt-8 text-center">
